@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ramtin-matin
-- 🌱 I’m currently learning C++ and Python
-- 📫 LinkedIn: linkedin.com/in/ramtin-m-291945213
+- 👋 Hi, I’m @ramtin-matin!
+- 🌱 I'm currently learning HTML, CSS, and JS!
+- 📫 Message me on LINKEDIN, INSTAGRAM, or EMAIL!
+
 
