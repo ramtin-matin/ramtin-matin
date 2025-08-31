@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year Computer Science student at the University of Kentucky, and I'm passionate about learning new ways to create
+I'm a fourth-year Computer Science student at the University of Kentucky, and I'm passionate about learning new ways to create
 
 
 ## 🌐 Socials:
